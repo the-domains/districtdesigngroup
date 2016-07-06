@@ -1,0 +1,28 @@
+name: districtdesigngroup
+favicon: null
+layout_spectrum: 0.2670595080126077
+typography_spectrum: 0.299310106318444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4731678790412843
+  lightness: 0.15335645875893533
+  saturation: 0.045646195532754064
+  rhythmicContrast: 0.9140514065511525
+purpose: []
